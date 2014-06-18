@@ -1,0 +1,98 @@
+\documentclass{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-lcroman]{babel}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{extramarks}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{xparse}
+\usepackage{courier}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    linktoc=all
+}
+
+\setenumerate[1]{label=(\alph*)}
+
+% Margenes
+\topmargin=-0.65in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+% Header y footer
+\pagestyle{fancy}
+\lhead{}
+\chead{\tareaRamo\ (\tareaProfesor): \tareaTitulo} % Centro
+\rhead{\firstxmark}
+\lfoot{\lastxmark}
+\cfoot{}
+\rfoot{Página\ \thepage\ de\ \protect\pageref{LastPage}} % Pagina
+\renewcommand\headrulewidth{0.4pt}
+\renewcommand\footrulewidth{0.4pt}
+
+\setlength\parindent{0pt} % Eliminar la indentación
+
+\newcommand{\python}[2]{
+\begin{itemize}
+\item[]\lstinputlisting[language=Python,caption=#2,label=#1]{#1.py}
+\end{itemize}
+}
+
+%----------------------------------------------------------------------------------------
+%	Meta Información
+%----------------------------------------------------------------------------------------
+\newcommand{\tareaTitulo}{Tarea\ \#3 - Informe} % titulo del informe
+\newcommand{\tareaFecha}{\today} % Fecha
+\newcommand{\tareaRamo}{Redes de Computadores} % Ramo
+\newcommand{\tareaUniversidad}{Departamento\ de\ Informática\ UTFSM, Santiago} %usm
+\newcommand{\tareaProfesor}{Oscar\ Encina} % Profesor
+\newcommand{\tareaAyudante}{Alex\ Arenas} % Ayudante
+\newcommand{\tareaAlumnoUno}{Eduardo\ Fernandez\ S.} % Nombre Alumno 1
+\newcommand{\tareaAlumnoDos}{Victor Cifuentes S.} % Nombre Alumno 2
+\newcommand{\tareaRolUno}{2010-} % Rut alumno 1
+\newcommand{\tareaRolDos}{201073557-5} % Rut Alumno 2
+
+%----------------------------------------------------------------------------------------
+%	Título
+%----------------------------------------------------------------------------------------
+
+\title{
+\textmd{\textbf{\tareaRamo:\ \tareaTitulo}}\\
+\normalsize\vspace{0.1in}\small{\tareaFecha}\\
+\vspace{0.1in}\large{Profesor: \textit{\tareaProfesor} \qquad \qquad Ayudante: \textit{\tareaAyudante}}
+}
+
+\author{
+    \textbf{\tareaAlumnoUno} \\
+    \small{\tareaRolUno}
+    \and
+    \textbf{\tareaAlumnoDos} \\
+    \small{\tareaRolDos}}
+\date{}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle
+
+\textbf{Proyecto:} Traduciendo RNA en Prote\'inas
+
+\textbf{Contexto:} En el mundo de la biolog\'ia molecular se utiliza una letra del alfabeto ingl\'es (excepto B, J, O, U, X, and Z) para abreviar uno de los 20 amino\'acidos mas concurrentes (Se utiliza la tabla de codones RNA). Las \textit{Cadenas de Proteínas} se forman a partir de estas 20 letras. Las abreviaciones de los codones se pueden encontrar en el siguiente link:\\ \url{http://www.hgmd.cf.ac.uk/docs/cd_amino.html}\\
+
+\textbf{Objetivo Principal:} Nuestro proyecto consiste en un programa del que ser\'a desarrollado en YACC que toma cadenas de RNA y detecte los amino\'acidos mas comunes y genere la cadena de prot\'inas. As\'i entonces se podr\'a detectar y visualizar f\'acilmente la cadena de prote\'inas.\\
+
+\textbf{Justificacion:} Es necesaria la utilizaci\'on de expresiones regulares para la detecci\'on de los amino\'acidos m\'as comunes para as\'i traducirlos. Adem\'as pueden ser representados usando aut\'omatas finitos a partir de las expresiones regulares encontradas.\\
+
+\end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.2)  18 JUN 2014 20:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.4.2)  20 JUN 2014 23:02
 entering extended mode
 **Informe.tex
 (C:\Users\Victor\tarea3redes\Informe.tex
@@ -711,7 +711,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 21.
 
-(C:\Users\Victor\tarea3redes\Informe.aux)
+(C:\Users\Victor\tarea3redes\Informe.aux
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
 LaTeX Font Info:    ... okay on input line 86.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
@@ -733,8 +737,7 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
 (lastpage)             ! on input line 86.
-
-("C:\Program Files\MiKTeX\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files\MiKTeX\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count152
 \scratchdimen=\dimen155
@@ -767,92 +770,400 @@ LaTeX Info: Redefining \nameref on input line 86.
 (C:\Users\Victor\tarea3redes\Informe.out)
 \@outlinefile=\write3
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
-<Redes_moodle_TR.png, id=7, 963.6pt x 602.25pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+<Redes_moodle_TR.png, id=15, 963.6pt x 602.25pt>
 File: Redes_moodle_TR.png Graphic file (type png)
  <use Redes_moodle_TR.png>
-Package pdftex.def Info: Redes_moodle_TR.png used on input line 101.
-(pdftex.def)             Requested size: 433.62pt x 271.01pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
-
- []
-
-<Redes_google_TR.png, id=8, 963.6pt x 602.25pt>
-File: Redes_google_TR.png Graphic file (type png)
- <use Redes_google_TR.png>
-Package pdftex.def Info: Redes_google_TR.png used on input line 109.
+Package pdftex.def Info: Redes_moodle_TR.png used on input line 103.
 (pdftex.def)             Requested size: 433.62pt x 271.01pt.
 
 [1
 
 {C:/Users/Victor/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/V
 ictor/tarea3redes/Redes_moodle_TR.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
-<Redes_cime_TR.png, id=20, 963.6pt x 602.25pt>
-File: Redes_cime_TR.png Graphic file (type png)
- <use Redes_cime_TR.png>
-Package pdftex.def Info: Redes_cime_TR.png used on input line 117.
+<Redes_google_TR.png, id=27, 963.6pt x 602.25pt>
+File: Redes_google_TR.png Graphic file (type png)
+ <use Redes_google_TR.png>
+Package pdftex.def Info: Redes_google_TR.png used on input line 112.
 (pdftex.def)             Requested size: 433.62pt x 271.01pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
-<Redes_wikipedia_TR.png, id=21, 963.6pt x 602.25pt>
+<Redes_cime_TR.png, id=28, 963.6pt x 602.25pt>
+File: Redes_cime_TR.png Graphic file (type png)
+ <use Redes_cime_TR.png>
+Package pdftex.def Info: Redes_cime_TR.png used on input line 121.
+(pdftex.def)             Requested size: 433.62pt x 271.01pt.
+ [2 <C:/Users/Victor/tarea3redes/Redes_google_TR.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+<Redes_wikipedia_TR.png, id=35, 963.6pt x 602.25pt>
 File: Redes_wikipedia_TR.png Graphic file (type png)
 
 <use Redes_wikipedia_TR.png>
-Package pdftex.def Info: Redes_wikipedia_TR.png used on input line 125.
+Package pdftex.def Info: Redes_wikipedia_TR.png used on input line 130.
 (pdftex.def)             Requested size: 433.62pt x 271.01pt.
- [2 <C:/Users/Victor/tarea3redes/Redes_google_TR.png> <C:/Users/Victor/tarea3re
-des/Redes_cime_TR.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
-<Redes_chile-embassy_TR.png, id=28, 963.6pt x 602.25pt>
+[3 <C:/Users/Victor/tarea3redes/Redes_cime_TR.png> <C:/Users/Victor/tarea3redes
+/Redes_wikipedia_TR.png>]
+<Redes_chile-embassy_TR.png, id=41, 963.6pt x 602.25pt>
 File: Redes_chile-embassy_TR.png Graphic file (type png)
 
 <use Redes_chile-embassy_TR.png>
-Package pdftex.def Info: Redes_chile-embassy_TR.png used on input line 133.
+Package pdftex.def Info: Redes_chile-embassy_TR.png used on input line 139.
 (pdftex.def)             Requested size: 433.62pt x 271.01pt.
- 
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+<red1.PNG, id=42, 892.08281pt x 410.2828pt>
+File: red1.PNG Graphic file (type png)
+ <use red1.PNG>
+Package pdftex.def Info: red1.PNG used on input line 154.
+(pdftex.def)             Requested size: 369.88582pt x 170.11394pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 161.
+
+("C:\Program Files\MiKTeX\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 161.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--195
+
+ []
+
+[4 <C:/Users/Victor/tarea3redes/Redes_chile-embassy_TR.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 196--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--236
+
+ []
+
+[5 <C:/Users/Victor/tarea3redes/red1.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 238--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--293
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 294--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--315
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--337
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--348
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--348
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--348
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 349--378
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--378
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--389
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 390--400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--411
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 412--422
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--444
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--455
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--466
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 467--477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 478--488
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--529
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 500--529
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--540
+
+ []
+
+[10] <mapaderedes.png, id=84, 761.09344pt x 352.31625pt>
+File: mapaderedes.png Graphic file (type png)
+ <use mapaderedes.png>
+Package pdftex.def Info: mapaderedes.png used on input line 545.
+(pdftex.def)             Requested size: 369.88582pt x 171.22798pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--578
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--578
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--595
+
+ []
+
+[11 <C:/Users/Victor/tarea3redes/mapaderedes.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 596--606
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--617
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--628
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--639
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 640--650
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 651--661
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--683
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 684--694
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--705
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 708--736
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--736
+
+ []
+
+
 AED: lastpage setting LastPage
-[3 <C:/Users/Victor/tarea3redes/Redes_wikipedia_TR.png> <C:/Users/Victor/tarea3
-redes/Redes_chile-embassy_TR.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
+[14]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 738.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 738.
  (C:\Users\Victor\tarea3redes\Informe.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 138.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 738.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 738.
 Package rerunfilecheck Info: File `Informe.out' has not changed.
-(rerunfilecheck)             Checksum: B924F58DB580E4562A0C33154C3EC20E;46.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 138.
- ) 
+(rerunfilecheck)             Checksum: BAE65FD503640342ACE5612650950E77;233.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 738.
+ )
+(\end occurred inside a group at level 3)
+
+### simple group (level 3) entered at line 412 ({)
+### simple group (level 2) entered at line 403 ({)
+### simple group (level 1) entered at line 392 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 13634 strings out of 493921
- 219628 string characters out of 3148884
- 300732 words of memory out of 3000000
- 16747 multiletter control sequences out of 15000+200000
+ 13684 strings out of 493921
+ 220251 string characters out of 3148884
+ 320841 words of memory out of 3000000
+ 16776 multiletter control sequences out of 15000+200000
  9668 words of font info for 35 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,11n,43p,248b,522s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12
-.pfb>
-Output written on Informe.pdf (3 pages, 2903245 bytes).
+ 37i,11n,43p,718b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Informe.pdf (14 pages, 3155843 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 34 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 60 words of extra memory for PDF output out of 10000 (max. 10000000)
 
